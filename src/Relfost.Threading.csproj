@@ -4,7 +4,7 @@
     <TargetFramework>netframework4.8.1</TargetFramework>
     <LangVersion>latest</LangVersion>
     <ImplicitUsings>disable</ImplicitUsings>
-    <Version>1.0.0.4</Version>
+    <Version>1.0.0.5</Version>
     <OutputPath>bin</OutputPath>
     <Nullable>enable</Nullable>
   </PropertyGroup>
