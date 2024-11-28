@@ -128,4 +128,4 @@ Contributions are welcome! Please feel free to submit issues, feature requests, 
 ---
 
 ## **Contact**
-For support or inquiries, please contact: **your.email@example.com**
+For support or inquiries, please contact: **github@relfost.com**
